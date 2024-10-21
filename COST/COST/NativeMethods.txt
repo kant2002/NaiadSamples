@@ -1,0 +1,8 @@
+LookupPrivilegeValue
+AdjustTokenPrivileges
+GetCurrentProcess
+OpenProcessToken
+GetLargePageMinimum
+VirtualAlloc
+VirtualFree
+TOKEN_ACCESS_MASK

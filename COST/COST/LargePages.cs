@@ -33,7 +33,7 @@ namespace COST
 {
     public static unsafe class LargePages
     {
-        private static ManagedUtils.ManagedUtils utils = new ManagedUtils.ManagedUtils();
+        private static ManagedUtils utils = new ManagedUtils();
 
         public static int* AllocateInts(uint count)
         {

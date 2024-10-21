@@ -140,12 +140,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="large_page_utils.h" />
-    <ClInclude Include="utils.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="large_page_utils.cpp" />
     <ClCompile Include="ManagedUtils.cpp" />
-    <ClCompile Include="utils.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
